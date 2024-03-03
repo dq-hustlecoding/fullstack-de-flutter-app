@@ -105,7 +105,7 @@ class _ProductsPageState extends State<ProductsPage> {
             child: Column(
               children: <Widget>[
                 Image.network(
-                  'https://via.placeholder.com/400x400',
+                  'https://via.placeholder.com/400x200',
                   fit: BoxFit.cover,
                   height: 200,
                 ),
